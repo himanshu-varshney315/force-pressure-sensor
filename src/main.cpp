@@ -6,7 +6,7 @@
  * and continuously reads sensor values, transmitting them via serial communication
  * at a baud rate of 9600.
  *
- * @author [Your Name]
+ * @author Himanshu
  * @date February 2026
  * @version 1.0
  */
